@@ -1,0 +1,12 @@
+com\mycompany\mavenproject1\helper\helper.class
+com\mycompany\mavenproject1\servlets\LoginServlet.class
+com\mycompany\mavenproject1\dao\CategoryDao.class
+com\mycompany\mavenproject1\servlets\RegisterServlet.class
+com\mycompany\mavenproject1\entities\Product.class
+com\mycompany\mavenproject1\entities\Category.class
+com\mycompany\mavenproject1\servlets\ProductOperationServlet.class
+com\mycompany\mavenproject1\helper\FactoryProvider.class
+com\mycompany\mavenproject1\dao\UserDao.class
+com\mycompany\mavenproject1\dao\ProductDao.class
+com\mycompany\mavenproject1\servlets\LogoutServlet.class
+com\mycompany\mavenproject1\entities\User.class
